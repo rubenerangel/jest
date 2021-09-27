@@ -1,0 +1,15 @@
+{
+  "name": "test-with-j",
+  "version": "1.0.0",
+  "description": "Unit Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "author": "Rubén Rangel <rubenrang@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.2.2"
+  }
+}
